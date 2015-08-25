@@ -8,5 +8,8 @@
     "dependencies": {
         "mocha": "~1.10.0",
         "chai": "~1.6.0"
+    },
+    "scripts": {
+      "test": "mocha test"
     }
 }
